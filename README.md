@@ -4,7 +4,7 @@
 Available Flags
 
 
-| Country Name | alpha-2 |
+| Country Name | Flag ID |
 |--------------|---------|
 | Afghanistan | af |
 | Åland Islands | ax |
